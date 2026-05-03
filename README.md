@@ -12,7 +12,7 @@ This project predicts battery health (SoH) and Remaining Useful Life (RUL) using
 ## Tech Stack
 - Python
 - TensorFlow / Keras
-- FastAPI (if used)
+- FastAPI
 - HTML, CSS, JS
 
 ## How to Run
